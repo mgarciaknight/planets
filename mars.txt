@@ -1,3 +1,4 @@
 Mars is red
 I like Mars
 Mars is nice
+Mars has moons too. Nice moons.
